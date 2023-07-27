@@ -11,7 +11,6 @@ export const metadata = {
     type: 'website'
   }
 };
-
 export default async function HomePage() {
   return (
     <>
