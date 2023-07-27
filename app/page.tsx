@@ -19,7 +19,7 @@ export default async function HomePage() {
       <Suspense>
         <Carousel />
         <Suspense>
-          <Footer />
+          <Footer /><script src="//code.tidio.co/3vttzswqsx7z4ta4fqbyvy1s7zecwlcd.js" async></script></Suspense>
         </Suspense>
       </Suspense>
     </>
